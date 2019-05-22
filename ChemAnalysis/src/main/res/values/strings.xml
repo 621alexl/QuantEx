@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QuantEX</string>
+    <string name = "search_liner">Analysis</string>
+    <string name = "cancel_btn">Cancel</string>
+    <string name = "read_btn">Analyze</string>
+    <string name = "search_btn">Search by name</string>
+    <string name = "list_key">List_Key</string>
+    <string name = "first_cid">json_cids</string>
+    <string name = "list_cids">list_cids</string>
+    <string name = "first_kinematic">1st Kinematic Equation</string>
+    <string name = "second_kinematic">2nd Kinematic Equation</string>
+    <string name = "third_kinematic">3rd Kinematic Equation</string>
+    <string name = "rydberg">Rydberg Equation</string>
+    <string name = "coulomb">Coulomb\'s  Law</string>
+    <string name = "einstein">Einstein\'s Equation</string>
+
+
+
+
+
+
+
+</resources>

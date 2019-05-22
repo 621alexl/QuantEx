@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="first_kinematic_id"/>
+    <item type="id" name="second_kinematic_id" />
+    <item type="id" name="third_kinematic_id" />
+    <item type="id" name="rydberg_id" />
+    <item type="id" name="coulomb_id" />
+    <item type="id" name="einstein_id" />
+
+</resources>
